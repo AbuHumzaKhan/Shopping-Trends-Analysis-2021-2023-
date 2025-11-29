@@ -210,32 +210,3 @@ Bundled offers
 
 High AOV but lower transaction count → big-ticket potential.
 
-# 📦 Repository Structure
-📁 Shopping-Trends-Analysis/
-│
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-│
-├── pbix/
-│   └── shopping_trends_dashboard.pbix
-│
-├── images/
-│   └── dashboard_overview.png
-│
-├── README.md  ← (This Report)
-│
-└── scripts/
-    └── Data_Cleaning.ipynb
-
-# 🔗 How to Use This Project
-
-Download the .pbix file
-
-Load your dataset
-
-Apply transformations
-
-Refresh visuals
-
-Explore insights through dynamic slicers
